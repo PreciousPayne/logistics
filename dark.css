@@ -1,0 +1,35 @@
+body{
+    background-color: #000;
+}
+
+label{
+    color:#fff;
+}
+
+h3{
+    color:#fff;
+}
+
+p{
+    color:#fff;
+}
+
+span{
+    color:#fff;
+}
+
+.title h3{
+    color:#fff;
+}
+
+.round,.avatar-box{
+    background-color: #fff;
+}
+
+.top-box, .center-wrapper,.wallet-box,.deposit-wrapper,.balance-wrapper, .transaction-wrapper{
+    box-shadow:0px 0px 4px 1px #1a4e8f;
+}
+
+.top li a{
+    color:#fff;
+}
